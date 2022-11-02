@@ -59,7 +59,7 @@ const NavBar = () => {
           </li>
         </ul>
         <div className={classes.middle}>
-          <h1>BOUTIQUE</h1>
+          <h1>APPLE SHOP</h1>
         </div>
         <ul className={classes.right}>
           <li className={classes.cart}>
